@@ -1,6 +1,5 @@
-Estruturas de Dados em Linguagem C
+Estruturas de Dados em Linguagem C:
 
-Estruturas de Dados:
   - Lista Encadeada
   - Lista Duplamente Encadeada
   - Lista Circular
