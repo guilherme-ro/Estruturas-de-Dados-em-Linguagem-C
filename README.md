@@ -13,6 +13,10 @@ Estruturas de Dados em Linguagem C:
   - Grafo Direcionado com Lista Encadeada - Busca em Largura
   - Ordenação Topológica com Busca em Profundidade
   - Algoritmo de Dijkstra
+  - Árvore Binária
+  - Árvore Binária de Busca
+  - Árvore AVL
+  - Árvore Rubro-Negra
   - Bubble Sort
   - Insertion Sort
   - Merge Sort
